@@ -1,0 +1,8 @@
+.catMenu {
+    transition: 0.3s;
+}
+
+.catMenu:hover {
+    transform: scale(1.2);
+    margin: 0 5px;
+}
