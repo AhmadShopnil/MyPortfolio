@@ -14,7 +14,7 @@ const About = () => {
                 <div className="avatar  h-56 md:h-72  flex justify-center md:justify-end  md:w-2/6" data-aos="fade-right">
                     <div className="shadow-inner shadow-2xl rounded-full ring ring-gray-300 ring-offset-base-100 ring-offset-8" >
                         <img src={me} className="shadow-2xl mask mask-circle  " alt='' />
-                        {/* <img src="https://assets.entrepreneur.com/content/3x2/2000/20160628101609-Coding.jpeg" className="shadow-2xl mask mask-circle  " alt='' /> */}
+
                     </div>
                 </div>
 
